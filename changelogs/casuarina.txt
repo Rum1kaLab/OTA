@@ -1,0 +1,7 @@
+This is Android 15 QPR2 with Feb 2026 security patches
+
+Notes:
+==============================
+- LineageOS-based source. Signed build.
+- And Nothing change..
+

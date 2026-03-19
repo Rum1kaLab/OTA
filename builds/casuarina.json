@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Rum1ka",
+      "currently_maintained": true,
+      "oem": "Vsmart",
+      "device": "Joy 3 / Joy 3+",
+      "filename": "EvolutionX-15.0-20260319-casuarina-10.14-Vanilla-Unofficial.zip",
+      "download": "https://cdn.evolution-x.org/<device codename>/14/EvolutionX-15.0-<date>-<device codename>-v<evolution_x_version>.zip/download",
+      "timestamp": 1773961200,
+      "md5": "16eab07688ba946e6ce6fcca435a4936",
+      "sha256": "69995938511a9c3f5c3b9e90b076cc525c5ad47604195ad602e2dc24b6d1d921",
+      "size": 1506680883,
+      "version": "10.14",
+      "buildtype": "user",
+      "github": "prpjzz",
+      "initial_installation_images": [
+        "recovery"
+      ]
+    }
+  ]
+}
